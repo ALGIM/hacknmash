@@ -15,7 +15,17 @@
 ## Defining the problem
 ![problem ideas](assets/team3-problem-id.jpg)
 
+## Original content creation process
+* Content creators (HR staff, minute takers etc) need to be trained to write the content in a way that when it is uploaded to the website it is already useable and scrapable e.g. proper heading and paragraph sections, good use of keywords and tags, bookmarking chapters within the document. This will save time later on adding extra tags and metadata to the pdf.
+* Training may be needed on using built-in features in Microsoft Word for styles and metadata information.
+* While creating the document, be mindful of the topics and areas of potential interest and note these down to be tagged later.
+* Possibly have a small list of tags/hot topics to keep an eye out for.
+* Ensure any documents being saved to PDF or other static filetypes are indexed and searchable - both for ease of searching later and to ensure accessibility for text-to-speech readers.
+
 ## PDF segmenting/scraping
+* Use of existing tools to index and extract keywords from PDFs
+* Tag documents with relevant keywords, apply date/location metadata
+* Apply bookmarks and indexes if needed.
 
 
 
