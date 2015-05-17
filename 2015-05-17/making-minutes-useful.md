@@ -27,7 +27,12 @@
 * Tag documents with relevant keywords, apply date/location metadata
 * Apply bookmarks and indexes if needed.
 
-
+## Pulling in other media
+* Many meetings and workshops are now recorded, either just audio or with full video
+* Link to the relevant media
+* Add timestamps so that users are taken directly to the relevant time in the discussion
+* This is especially important for visually impaired users - listening to the meeting itself is more engaging than listening to text-to-speech of meeting minutes
+* These can also be pushed out to social media platforms
 
 ## Mapping process
 Extracting submitters' addresses from last month's agenda into a spreadsheet/fusion table
