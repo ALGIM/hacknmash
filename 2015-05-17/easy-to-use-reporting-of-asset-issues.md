@@ -25,9 +25,9 @@ Can we monitor other forums?
 Monthly reporting of requests
 
 ## Personas
-[personas](assets/team1-personas.jpg)
+![personas](assets/team1-personas.jpg)
 
 ## Solution concept at demo
-[concept](assets/team1-concept-solutions.jpg)
+![concept](assets/team1-concept-solutions.jpg)
 
 
