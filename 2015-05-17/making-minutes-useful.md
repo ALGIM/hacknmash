@@ -21,7 +21,8 @@
 
 ## Mapping process
 Extracting submitters' addresses from last month's agenda into a spreadsheet/fusion table
-
+embed code for location of submissions map
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1nuA1thK6Di8M3uiDs5QjJ9RvyhdHVqT_6zvYC06r&amp;viz=MAP&amp;h=false&amp;lat=-43.529555192349164&amp;lng=172.64111918891604&amp;t=1&amp;z=12&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
 ## UI ideas
 ![ui1](assets/team3-ui-idea.jpg)
 
