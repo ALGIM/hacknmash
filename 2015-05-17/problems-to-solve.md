@@ -8,7 +8,7 @@ We pitched potential problems to solve and then dot voted to find a set of 5 key
 
 [Digital engagement plan - best way to communicate this community and businesses how do we ensure good representation](digital-engagement.md)
 
-[Alcohol - where can I drink? Extended to other things like BBQs, dog walking etc. Mapping local bylaws](mapping-bylaws.md)
+[Mapping local bylaws. Alcohol - where can I drink where can I not? Extended to other things like BBQs, dog walking etc.](mapping-bylaws.md)
 
 [Council and local DHBs minutes and agendas… how do we make them more useful and  interesting](making-minutes-useful.md)
 
