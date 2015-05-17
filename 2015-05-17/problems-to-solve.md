@@ -30,6 +30,16 @@ Alcohol - where can I drink? Many local bylaws.
 (Christchurch city council) Make content and asset information more accessible to show what awesome things are here. (Reworking the many pages on the CC site into something more useful.
 
 
+## Photos of the boards
+
+![Problem board 1](assets/problem-board-1.jpg)
+
+![Problem board 2](assets/problem-board-2.jpg)
+
+
+
+
+
 
 
 
